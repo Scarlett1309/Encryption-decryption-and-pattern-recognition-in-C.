@@ -1,0 +1,1 @@
+# Encryption-decryption-and-pattern-recognition-in-C.
